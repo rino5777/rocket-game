@@ -13,3 +13,4 @@
 ```
  docker run --rm -it rocket-game
  ```
+![my_ae6ab35de5b748b9a71b4e7ec32ccd1c](https://github.com/rino5777/rocket-game/assets/96320343/67a6afce-48cd-4781-ade4-68e12da78347)
