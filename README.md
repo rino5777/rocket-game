@@ -7,9 +7,9 @@
 ( through Docker )
 >Build the Docker Image
 ```
- >docker build -t rocket-game .
+ docker build -t rocket-game .
 ```
 >Run the Docker Container
 ```
- >docker run --rm -it rocket-game
+ docker run --rm -it rocket-game
  ```
